@@ -1,6 +1,14 @@
 {
-    "repository": {
-    "type": "git",
-    "url": "https://github.com/Gabrivisual/REPO"
+"name": "seu-projeto",
+"version": "1.0.0",
+"description": "Descrição do seu projeto",
+"main": "index.js",
+"scripts":{
+"start": "node index.js",
+"build": "comando-para-construir-o-projeto"
+},
+"repository": {
+"type": "git",
+"url": "https://github.com/Gabrivisual/REPO"
 }
 }
