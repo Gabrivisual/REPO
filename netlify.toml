@@ -3,4 +3,4 @@ from = "/*"
 to = "/index.html"
 status = 200
 [build]
-publish = "REPO"
+publish = "repo"
